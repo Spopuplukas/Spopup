@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spopup – Deine Online-Präsenz ist mein Problem</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Spopup</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Start</a></li>
+                <li><a href="leistungen.html">Leistungen</a></li>
+                <li><a href="kontakt.html">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Ihre Online-Präsenz ist mein Problem</h2>
+        <p>Social-Media-Marketing für TikTok & Instagram – professionell, modern, effektiv.</p>
+        <a href="kontakt.html" class="btn">Jetzt anfragen</a>
+    </section>
+</body>
+</html>
